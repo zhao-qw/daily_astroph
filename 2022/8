@@ -1,0 +1,10 @@
+# ArXiv astrop-ph August 2022
+## Aug 8
+JWST NIRCam+NIRSpec: Interstellar medium and stellar populations of young galaxies with rising star formation and evolving gas reservoirs
+https://arxiv.org/pdf/2208.03281.pdf
+* use the Bayesian SED fitting code Prospector with a flexible SFH, a variable dust attenuation law, and a self-consistent
+model of nebular emission (continuum and emission lines). Importantly, we self-consistently fit both the emission line fluxes from
+JWST/NIRSpec and the broad-band photometry from JWST/NIRCam, taking into account slit-loss effects.
+* these three 𝑧 = 7.6 − 8.5 galaxies (𝑀 ≈ 108 𝑀_ ) are young with rising SFHs and mass-weighted ages of 3 − 7 Myr,
+* The galaxy with the lowest gas-phase metallicity (Zgas = 0.06 Z⊙) has a steeply rising SFH, very compact (< 0.2 kpc) and has a high star-formation rate 
+surface density (ΣSFR ≈ 38 M⊙ yr−1 kpc−2),consistent with rapid gas accretion.
